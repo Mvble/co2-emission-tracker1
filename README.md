@@ -89,19 +89,19 @@
     <footer>
         <p>© 2024 CO2 Emission Tracker. Alle Rechte vorbehalten.</p>
     </footer>
-body {
+<body {
 font-family: Arial, sans-serif;
 margin: 0;
 padding: 0;
 }
 
-header {
+<header {
 background-color: #2e8b57;
 color: white;
 padding: 20px:
 }
 
-footer {
+<footer {
 background-color: #2e8b57;
 color: white;
 text-align: center;
