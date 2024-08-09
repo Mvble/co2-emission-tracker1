@@ -36,17 +36,52 @@
                     <tr>
                         <td>Deutschland</td>
                         <td>Unternehmen A</td>
-                        <td>1000</td>
+                        <td>8000</td>
                     </tr>
                     <tr>
                         <td>USA</td>
                         <td>Unternehmen B</td>
-                        <td>2000</td>
+                        <td>14000</td>
                     </tr>
                     <tr>
                      <td>China</td>
                         <td>Unternehmen B</td>
-                        <td>7000</td>
+                        <td>8700</td>
+                    </tr>
+                     <tr>
+                     <td>Saudi-Arabien</td>
+                        <td>Unternehmen B</td>
+                        <td>16600</td>
+                    </tr>
+                      <tr>
+                     <td>Süd-Afrika</td>
+                        <td>Unternehmen B</td>
+                        <td>7300</td>
+                    </tr>
+                      <tr>
+                     <td>Japan</td>
+                        <td>Unternehmen B</td>
+                        <td>8600</td>
+                    </tr>
+                      <tr>
+                     <td>Korea</td>
+                        <td>Unternehmen B</td>
+                        <td>12000</td>
+                    </tr>
+                      <tr>
+                     <td>Russland</td>
+                        <td>Unternehmen B</td>
+                        <td>13500</td>
+                    </tr>
+                      <tr>
+                     <td>Australien</td>
+                        <td>Unternehmen B</td>
+                        <td>14300</td>
+                    </tr>
+                      <tr>
+                     <td>Kanada</td>
+                        <td>Unternehmen B</td>
+                        <td>14900</td>
                     </tr>
                 </tbody>
             </table>
