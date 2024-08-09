@@ -100,3 +100,13 @@ background-color: #2e8b57;
 color: white;
 padding: 20px:
 }
+
+footer {
+background-color: #2e8b57;
+color: white;
+text-align: center;
+padding: 10px;
+position: relative;
+bottom: 0;
+width: 100%;
+}
