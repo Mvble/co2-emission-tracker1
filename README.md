@@ -118,7 +118,7 @@ width: 100%;
     width: 100%;
     overflow-x: auto;
 document.getElementById('filter').addEventListener('keyup', function() {
-    const filter = this.value.toLowerCase();
+    <const filter = this.value.toLowerCase();
     const rows = document.querySelectorAll('#emissionTable tbody tr');
     
     rows.forEach(row => {
