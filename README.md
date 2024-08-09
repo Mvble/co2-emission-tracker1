@@ -97,8 +97,8 @@ padding: 0;
 
 <header {
 background-color: #2e8b57;
-color: black;
-padding: 20px:
+color: white;
+padding: 30px:
 }
 
 <footer {
