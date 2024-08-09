@@ -54,3 +54,42 @@
     <script src="script.js"></script>
 </body>
 </html>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2e8b57;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #2e8b57;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Responsivitätsanpassungen */
+@media (max-width: 600px) {
+    header, footer {
+        font-size: 14px;
+    }
+
+    table {
+        width: 100%;
+        overflow-x: auto;
+    }
+}
