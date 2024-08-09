@@ -93,3 +93,15 @@ footer {
         overflow-x: auto;
     }
 }
+
+// script.js
+document.getElementById('filter').addEventListener('keyup', function() {
+    const filter = this.value.toLowerCase();
+    const rows = document.querySelectorAll('#emissionTable tbody tr');
+    
+    rows.forEach(row => {
+        const cells = row.getElementsByTagName('td');
+        const match = Array.from(cells).some(cell => cell.textContent.toLowerCase().includes(filter));
+        row.style.display = match ? '' : 'none';
+    });
+});
