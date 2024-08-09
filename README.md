@@ -97,7 +97,7 @@ padding: 0;
 
 <header {
 background-color: #2e8b57;
-color: white;
+color: black;
 padding: 20px:
 }
 
