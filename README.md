@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <img src="logo.png" alt="Logo" />
+        <img src="C:\Users\leven\Pictures\co2 Bild.png" alt="Logo" />
         <h1>CO2 Emission Tracker</h1>
         <nav>
             <ul>
