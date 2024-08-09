@@ -89,8 +89,7 @@
     <footer>
         <p>© 2024 CO2 Emission Tracker. Alle Rechte vorbehalten.</p>
         <p>Impressum | Datenschutz</p>
-
-    </footer>
+ </footer>
 <body {
 font-family: Arial, sans-serif;
 margin: 0;
