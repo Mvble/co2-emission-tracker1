@@ -88,7 +88,7 @@
         </section>
     </main>
     <footer>
-        <p>© 2023 CO2 Emission Tracker. Alle Rechte vorbehalten.</p>
+        <p>© 2024 CO2 Emission Tracker. Alle Rechte vorbehalten.</p>
     </footer>
     <script src="script.js"></script>
 </body>
