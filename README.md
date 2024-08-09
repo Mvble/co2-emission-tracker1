@@ -1,4 +1,4 @@
-# co2-emission-tracker1
+# Co2-emission-tracker1
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -98,7 +98,7 @@ padding: 0;
 <header {
 background-color: #2e8b57;
 color: white;
-padding: 30px:
+padding: 20px:
 }
 
 <footer {
