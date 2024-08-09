@@ -94,7 +94,6 @@ footer {
     }
 }
 
-// script.js
 document.getElementById('filter').addEventListener('keyup', function() {
     const filter = this.value.toLowerCase();
     const rows = document.querySelectorAll('#emissionTable tbody tr');
