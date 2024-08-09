@@ -43,7 +43,11 @@
                         <td>Unternehmen B</td>
                         <td>2000</td>
                     </tr>
-                    <!-- weitere fiktive Daten hier -->
+                    <tr>
+                     <td>China</td>
+                        <td>Unternehmen B</td>
+                        <td>7000</td>
+                    </tr>
                 </tbody>
             </table>
         </section>
