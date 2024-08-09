@@ -1,5 +1,4 @@
 # co2-emission-tracker1
-<!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
