@@ -120,7 +120,6 @@ footer {
     width: 100%;
 }
 
-/* Responsivitätsanpassungen */
 @media (max-width: 600px) {
     header, footer {
         font-size: 14px;
