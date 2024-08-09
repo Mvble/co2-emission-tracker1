@@ -110,3 +110,14 @@ position: relative;
 bottom: 0;
 width: 100%;
 }
+@media (max-width: 600px) {
+    header, footer {
+        font-size: 14px;
+    }
+
+    <table {
+     width: 100%;
+     overflow-x: auto;
+    }
+}
+
